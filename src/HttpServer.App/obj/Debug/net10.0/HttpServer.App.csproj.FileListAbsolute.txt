@@ -1,0 +1,14 @@
+C:\Users\AGUDR\HttpServer\src\HttpServer.App\bin\Debug\net10.0\HttpServer.App.exe
+C:\Users\AGUDR\HttpServer\src\HttpServer.App\bin\Debug\net10.0\HttpServer.App.deps.json
+C:\Users\AGUDR\HttpServer\src\HttpServer.App\bin\Debug\net10.0\HttpServer.App.runtimeconfig.json
+C:\Users\AGUDR\HttpServer\src\HttpServer.App\bin\Debug\net10.0\HttpServer.App.dll
+C:\Users\AGUDR\HttpServer\src\HttpServer.App\bin\Debug\net10.0\HttpServer.App.pdb
+C:\Users\AGUDR\HttpServer\src\HttpServer.App\obj\Debug\net10.0\HttpServer.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGUDR\HttpServer\src\HttpServer.App\obj\Debug\net10.0\HttpServer.App.AssemblyInfoInputs.cache
+C:\Users\AGUDR\HttpServer\src\HttpServer.App\obj\Debug\net10.0\HttpServer.App.AssemblyInfo.cs
+C:\Users\AGUDR\HttpServer\src\HttpServer.App\obj\Debug\net10.0\HttpServer.App.csproj.CoreCompileInputs.cache
+C:\Users\AGUDR\HttpServer\src\HttpServer.App\obj\Debug\net10.0\HttpServer.App.dll
+C:\Users\AGUDR\HttpServer\src\HttpServer.App\obj\Debug\net10.0\refint\HttpServer.App.dll
+C:\Users\AGUDR\HttpServer\src\HttpServer.App\obj\Debug\net10.0\HttpServer.App.pdb
+C:\Users\AGUDR\HttpServer\src\HttpServer.App\obj\Debug\net10.0\HttpServer.App.genruntimeconfig.cache
+C:\Users\AGUDR\HttpServer\src\HttpServer.App\obj\Debug\net10.0\ref\HttpServer.App.dll
