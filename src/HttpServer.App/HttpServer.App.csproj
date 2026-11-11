@@ -7,4 +7,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="PROGRESS_ROADMAP.cs" />
+    <Compile Remove="STATUS_REPORT.cs" />
+    <Compile Remove="TESTING_GUIDE.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HttpServer.Core\HttpServer.Core.csproj" />
+  </ItemGroup>
+
 </Project>

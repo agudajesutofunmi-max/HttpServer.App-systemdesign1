@@ -397,11 +397,24 @@
       "HttpServer.App/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "HttpServer.Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/HttpServer.App.dll": {}
         },
         "runtime": {
           "bin/placeholder/HttpServer.App.dll": {}
+        }
+      },
+      "HttpServer.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/HttpServer.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HttpServer.Core.dll": {}
         }
       }
     }
@@ -918,11 +931,17 @@
       "type": "project",
       "path": "../../src/HttpServer.App/HttpServer.App.csproj",
       "msbuildProject": "../../src/HttpServer.App/HttpServer.App.csproj"
+    },
+    "HttpServer.Core/1.0.0": {
+      "type": "project",
+      "path": "../../src/HttpServer.Core/HttpServer.Core.csproj",
+      "msbuildProject": "../../src/HttpServer.Core/HttpServer.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
       "HttpServer.App >= 1.0.0",
+      "HttpServer.Core >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.14.1",
       "coverlet.collector >= 6.0.4",
       "xunit >= 2.9.3",
@@ -965,6 +984,9 @@
           "projectReferences": {
             "C:\\Users\\AGUDR\\HttpServer\\src\\HttpServer.App\\HttpServer.App.csproj": {
               "projectPath": "C:\\Users\\AGUDR\\HttpServer\\src\\HttpServer.App\\HttpServer.App.csproj"
+            },
+            "C:\\Users\\AGUDR\\HttpServer\\src\\HttpServer.Core\\HttpServer.Core.csproj": {
+              "projectPath": "C:\\Users\\AGUDR\\HttpServer\\src\\HttpServer.Core\\HttpServer.Core.csproj"
             }
           }
         }

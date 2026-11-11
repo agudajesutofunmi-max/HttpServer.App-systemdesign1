@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\HttpServer.App\HttpServer.App.csproj" />
+    <ProjectReference Include="..\..\src\HttpServer.Core\HttpServer.Core.csproj" />
   </ItemGroup>
 
 </Project>

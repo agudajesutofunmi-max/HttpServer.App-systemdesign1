@@ -9,6 +9,7 @@
       "HttpServer.Tests/1.0.0": {
         "dependencies": {
           "HttpServer.App": "1.0.0",
+          "HttpServer.Core": "1.0.0",
           "Microsoft.NET.Test.Sdk": "17.14.1",
           "xunit": "2.9.3"
         },
@@ -332,8 +333,19 @@
         }
       },
       "HttpServer.App/1.0.0": {
+        "dependencies": {
+          "HttpServer.Core": "1.0.0"
+        },
         "runtime": {
           "HttpServer.App.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "HttpServer.Core/1.0.0": {
+        "runtime": {
+          "HttpServer.Core.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -425,6 +437,11 @@
       "hashPath": "xunit.extensibility.execution.2.9.3.nupkg.sha512"
     },
     "HttpServer.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HttpServer.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

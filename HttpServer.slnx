@@ -1,6 +1,8 @@
 <Solution>
   <Folder Name="/src/">
     <Project Path="src/HttpServer.App/HttpServer.App.csproj" />
+    <Project Path="src/HttpServer.Core/HttpServer.Core.csproj" />
+    <Project Path="src/ReverseProxy.App/ReverseProxy.App.csproj" />
   </Folder>
   <Folder Name="/tests/">
     <Project Path="tests/HttpServer.Tests/HttpServer.Tests.csproj" />

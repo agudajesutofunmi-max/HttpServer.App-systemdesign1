@@ -101,3 +101,6 @@ C:\Users\AGUDR\HttpServer\tests\HttpServer.Tests\obj\Debug\net10.0\refint\HttpSe
 C:\Users\AGUDR\HttpServer\tests\HttpServer.Tests\obj\Debug\net10.0\HttpServer.Tests.pdb
 C:\Users\AGUDR\HttpServer\tests\HttpServer.Tests\obj\Debug\net10.0\HttpServer.Tests.genruntimeconfig.cache
 C:\Users\AGUDR\HttpServer\tests\HttpServer.Tests\obj\Debug\net10.0\ref\HttpServer.Tests.dll
+C:\Users\AGUDR\HttpServer\tests\HttpServer.Tests\obj\Debug\net10.0\HttpServer.Tests.sourcelink.json
+C:\Users\AGUDR\HttpServer\tests\HttpServer.Tests\bin\Debug\net10.0\HttpServer.Core.dll
+C:\Users\AGUDR\HttpServer\tests\HttpServer.Tests\bin\Debug\net10.0\HttpServer.Core.pdb

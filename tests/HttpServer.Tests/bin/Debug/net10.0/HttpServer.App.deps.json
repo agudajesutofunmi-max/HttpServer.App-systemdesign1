@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v10.0": {
       "HttpServer.App/1.0.0": {
+        "dependencies": {
+          "HttpServer.Core": "1.0.0"
+        },
         "runtime": {
           "HttpServer.App.dll": {}
+        }
+      },
+      "HttpServer.Core/1.0.0": {
+        "runtime": {
+          "HttpServer.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "HttpServer.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HttpServer.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
